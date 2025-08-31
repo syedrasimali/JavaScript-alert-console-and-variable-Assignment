@@ -1,0 +1,1 @@
+# JavaScript-alert-console-and-variable-Assignment
